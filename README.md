@@ -1,16 +1,16 @@
 <!-- Banner with custom gradient & wave -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=200&section=header&text=Shalehin%20Ahmed%20Ornob&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" />
 </p>
 
 <!-- Profile Picture + Basic Info -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZhdWtpMXQycmtkdWNmeDRwYnFhNDBuaG9mZW43Y3oyb2lyZXIxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="400" />
 </p>
 
-<!-- Done-->
 
+
+<!-- Work-Names-->
 <h1 align="center">
   <sub align="center">Frontend Architect • UI Craftsman • Creative Technologist</sub>
 </h1>
@@ -27,7 +27,7 @@
 <!-- Views Counter -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ORNOB-083&label=Profile+Views&color=fcb045&style=for-the-badge&labelColor=1a1a2e" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Open%20to-Opportunities-fcb045?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://komarev.com/ghpvc/?username=ORNOB-083&label=Profile+Views&color=833ab4&style=for-the-badge&labelColor=1a1a2e" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Open%20to-Opportunities-fcb045?style=for-the-badge&labelColor=1a1a2e" />
 </p>
 
 ---
