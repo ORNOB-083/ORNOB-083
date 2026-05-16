@@ -22,11 +22,12 @@
 <!-- Location & Email -->
 <p align="center">
   📍 <strong>Dhaka, Bangladesh</strong>
-</p>
+</p>&nbsp;
 
 <!-- Views Counter -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ORNOB-083&label=Profile%20Views&color=8A2BE2&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ORNOB-083&label=Profile+Views&color=fcb045&style=for-the-badge&labelColor=1a1a2e" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Open%20to-Opportunities-fcb045?style=for-the-badge&labelColor=1a1a2e" />
 </p>
 
 ---
