@@ -8,8 +8,6 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZhdWtpMXQycmtkdWNmeDRwYnFhNDBuaG9mZW43Y3oyb2lyZXIxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="400" />
 </p>
 
-
-
 <!-- Work-Names-->
 <h1 align="center">
   <sub align="center">Frontend Architect • UI Craftsman • Creative Technologist</sub>
@@ -51,29 +49,32 @@ I like owning the full picture.
 
 <p align="center">
   <a href="https://linkedin.com/in/shalehin-ahmed-ornob" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="saornob2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:saornob2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://discord.com/users/shalehinahmedornob" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  </a>&nbsp;
   <a href="https://x.com/Saornob_08" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>&nbsp;
   <a href="https://www.facebook.com/sa.ornob.79" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.youtube.com/@sa_ornob" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/shalehin_ahmed" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>&nbsp;
   <a href="https://www.behance.net/shalehiornob" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
-  
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" />
+  </a>&nbsp;
 </p>
 
 ---
-
-
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
