@@ -120,6 +120,17 @@ I like owning the full picture.
 
 ---
 
+<div align="center" >
+<a  href="https://github.com/ORNOB-083">
+
+<img src="https://raw.githubusercontent.com/ORNOB-083/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/ORNOB-083/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/ORNOB-083/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+
+---
+
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fcb045,50:fd1d1d,100:833ab4&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=65&animation=twinkling" width="100%" />
