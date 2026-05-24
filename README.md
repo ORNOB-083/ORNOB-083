@@ -111,6 +111,9 @@ class About extends ORNOB-083 {
   <a href="https://x.com/Saornob_08" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>&nbsp;
+  <a href="https://t.me/ORNOB_083" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+  </a>&nbsp;
   <a href="https://www.facebook.com/sa.ornob.79" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>&nbsp;
