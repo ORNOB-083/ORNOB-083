@@ -37,11 +37,11 @@ I care deeply about writing **clean, performant code** and crafting interfaces t
 as good as they look. From pixel-perfect UIs to backend logic and AI integrations —
 I like owning the full picture.
 
-- 🔭 **Focused on:** Shipping AI-powered products that are fast, intuitive, and actually useful
-- 🎨 **Designing:** Intuitive UIs with a strong eye for detail and user experience
-- ⚡ **Stack:** React · Next.js · Node.js · Express · Tailwind CSS · Multiple Animation
-- 🤖 **Exploring:** AI/ML integrations, MongoDB, and WebAssembly
-- 🏆 **Principle:** If it's slow or messy, it's not done yet 
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="22" />&nbsp;&nbsp; **Focused on:** Shipping AI-powered products that are fast, intuitive, and actually useful <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="22" />&nbsp;&nbsp; **Designing:** Intuitive UIs with a strong eye for detail and user experience
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="14" />&nbsp;&nbsp;&nbsp;&nbsp; **Stack:** React · Next.js · Node.js · Express · Tailwind CSS · Multiple Animations
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22" />&nbsp;&nbsp; **Exploring:** AI/ML integrations, MongoDB, and WebAssembly
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="22" />&nbsp;&nbsp; **Principle:** If it's slow or messy, it's not done yet
 
 ---
 
