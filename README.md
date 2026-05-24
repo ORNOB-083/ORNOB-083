@@ -45,37 +45,6 @@ I like owning the full picture.
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/shalehin-ahmed-ornob" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="mailto:saornob2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://discord.com/users/shalehinahmedornob" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://x.com/Saornob_08" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.facebook.com/sa.ornob.79" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.youtube.com/@sa_ornob" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/shalehin_ahmed" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.behance.net/shalehiornob" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" />
-  </a>&nbsp;
-</p>
-
----
-
 ### 💻 Tech Stack
 
 #### 🗣️ Languages
@@ -120,14 +89,45 @@ I like owning the full picture.
 
 ---
 
-<div align="center" >
-<a  href="https://github.com/ORNOB-083">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ORNOB-083/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+  <img src="https://raw.githubusercontent.com/ORNOB-083/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+  <img src="https://raw.githubusercontent.com/ORNOB-083/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=ORNOB-083&theme=radical&hide_border=true&ring=833ab4&fire=fd1d1d&currStreakLabel=fcb045" width="49%">
+  <!-- <img src="https://raw.githubusercontent.com/ORNOB-083/profile-summary-cards/master/profile-summary-card-output/radical/4-productive-time.svg" width="49%"> --> 
+</div>
 
-<img src="https://raw.githubusercontent.com/ORNOB-083/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/ORNOB-083/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/ORNOB-083/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+---
 
-</a>
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/shalehin-ahmed-ornob" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:saornob2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://discord.com/users/shalehinahmedornob" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://x.com/Saornob_08" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.facebook.com/sa.ornob.79" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.youtube.com/@sa_ornob" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/shalehin_ahmed" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.behance.net/shalehiornob" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" />
+  </a>&nbsp;
+</p>
 
 ---
 
