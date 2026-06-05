@@ -105,7 +105,7 @@ class About extends ORNOB-083 {
   <a href="mailto:saornob2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>&nbsp;
-  <a href="https://discord.com/users/shalehinahmedornob" target="_blank">
+  <a href="https://discord.com/users/778700441583616010" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>&nbsp;
   <a href="https://x.com/Saornob_08" target="_blank">
