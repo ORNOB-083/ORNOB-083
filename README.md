@@ -3,6 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=200&section=header&text=Shalehin%20Ahmed%20Ornob&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" />
 </p>
 
+<!-- <p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGgyYWx2bnJmN2JibXRvNmNuazQxNmN2aTU0dGI3ZGtnZGlmcmdrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VePtB3roynxfLYicuV/giphy.gif" alt="Centered GIF" width="400" />
+</p> -->
+
 <!-- Profile Picture + Basic Info -->
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZhdWtpMXQycmtkdWNmeDRwYnFhNDBuaG9mZW43Y3oyb2lyZXIxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="400" />
